@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+  <event id="3">
+    <name>Tugas awal kuliah</name>
+    <description>&lt;p&gt;Apa yang Anda keyahui tentang multimedia?&lt;br /&gt;&lt;/p&gt;</description>
+    <format>1</format>
+    <courseid>4</courseid>
+    <groupid>0</groupid>
+    <userid>2</userid>
+    <repeatid>0</repeatid>
+    <modulename>assign</modulename>
+    <instance>2</instance>
+    <eventtype>due</eventtype>
+    <timestart>1450134000</timestart>
+    <timeduration>0</timeduration>
+    <visible>1</visible>
+    <uuid></uuid>
+    <sequence>1</sequence>
+    <timemodified>1449534404</timemodified>
+  </event>
+</events>

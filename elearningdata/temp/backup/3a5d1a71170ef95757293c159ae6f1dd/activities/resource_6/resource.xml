@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1" moduleid="6" modulename="resource" contextid="57">
+  <resource id="1">
+    <name>Pengantar Multimedia</name>
+    <intro>&lt;p&gt;Tujuan:&lt;/p&gt;&lt;p&gt;1. Siswa mampu menjelaskan tentang multimedia&lt;/p&gt;&lt;p&gt;2. Siswa mengetahui komponen multimedia.&lt;br&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>0</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>1</revision>
+    <timemodified>1449534618</timemodified>
+  </resource>
+</activity>

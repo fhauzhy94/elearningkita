@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_categories>
+  <question_category id="7">
+    <name>Default for MUL X</name>
+    <contextid>40</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>4</contextinstanceid>
+    <info>The default category for questions shared in context 'MUL X'.</info>
+    <infoformat>0</infoformat>
+    <stamp>localhost:8080+151208090317+dIRjqC</stamp>
+    <parent>0</parent>
+    <sortorder>999</sortorder>
+    <questions>
+      <question id="4">
+        <parent>0</parent>
+        <name>Multiple-choice</name>
+        <questiontext>&lt;p&gt;Apa yang dimaksud dengan multimedia?&lt;br&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>localhost:8080+151208090622+U6BQrD</stamp>
+        <version>localhost:8080+151208090652+Po6x4f</version>
+        <hidden>0</hidden>
+        <timecreated>1449565582</timecreated>
+        <timemodified>1449565611</timemodified>
+        <createdby>2</createdby>
+        <modifiedby>2</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="12">
+              <answertext>&lt;p&gt;alat yang sangat banyak&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13">
+              <answertext>&lt;p&gt;menggunakan banyak alat&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="14">
+              <answertext>&lt;p&gt;menggunakan banyak alat sebagai sarana&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="15">
+              <answertext>&lt;p&gt;sarana yang banyak&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="3">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="5">
+        <parent>0</parent>
+        <name>ALir Produksi</name>
+        <questiontext>&lt;p  style="margin-top:0cm;margin-right:0cm;margin-bottom:
+0cm;margin-left:21.3pt;margin-bottom:.0001pt;text-indent:
+-18.0pt;line-height:150%;tab-stops:21.3pt 106.35pt 191.4pt 290.6pt 13.0cm"&gt;&lt;span style="font-family:&amp;quot;Arial Narrow&amp;quot;,&amp;quot;sans-serif&amp;quot;;"&gt;Dibawah
+ini adalah proses pada pre-production, kecuali :&lt;/span&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>localhost:8080+151216020505+gsLXoz</stamp>
+        <version>localhost:8080+151216020506+hIR9KC</version>
+        <hidden>0</hidden>
+        <timecreated>1450231505</timecreated>
+        <timemodified>1450231505</timemodified>
+        <createdby>3</createdby>
+        <modifiedby>3</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="16">
+              <answertext>&lt;p&gt;Penuangan ide&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="17">
+              <answertext>&lt;p&gt;Perencanaan produk&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="18">
+              <answertext>&lt;p&gt;Perencanaan proses produksi&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="19">
+              <answertext>&lt;p&gt;Penyusunan dokumentasi&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="20">
+              <answertext>&lt;p&gt;Revisi&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="4">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="6">
+        <parent>0</parent>
+        <name>Alir Produksi</name>
+        <questiontext>&lt;p  style="margin-top:0cm;margin-right:0cm;margin-bottom:
+0cm;margin-left:21.3pt;margin-bottom:.0001pt;text-indent:
+-18.0pt;line-height:150%;tab-stops:21.3pt 106.35pt 191.4pt 290.6pt 13.0cm"&gt;&lt;span style="font-family:&amp;quot;Arial Narrow&amp;quot;,&amp;quot;sans-serif&amp;quot;;"&gt;Presentasi
+dalam penyampaian produk adalah :&lt;/span&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>localhost:8080+151216020812+vLRALF</stamp>
+        <version>localhost:8080+151216020813+obfkZG</version>
+        <hidden>0</hidden>
+        <timecreated>1450231692</timecreated>
+        <timemodified>1450231692</timemodified>
+        <createdby>3</createdby>
+        <modifiedby>3</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="21">
+              <answertext>&lt;p&gt;Menentukan harga produk&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="22">
+              <answertext>&lt;p&gt;memaparkan layanan produk&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="23">
+              <answertext>&lt;p&gt;Menyusun tim&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="24">
+              <answertext>&lt;p&gt;Mengikat kontrak&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="25">
+              <answertext>&lt;p&gt;Membuat slide&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="5">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="7">
+        <parent>0</parent>
+        <name>Alir Produksi</name>
+        <questiontext>&lt;p  style="margin-top:0cm;margin-right:0cm;margin-bottom:
+0cm;margin-left:21.3pt;margin-bottom:.0001pt;text-indent:
+-18.0pt;line-height:150%;tab-stops:21.3pt 106.35pt 191.4pt 290.6pt 13.0cm"&gt;&lt;span style="font-family:&amp;quot;Arial Narrow&amp;quot;,&amp;quot;sans-serif&amp;quot;;"&gt;Semua
+fungsi produk sudah dibangun diimplementasikan dan diintegrasikan maka produk
+tersebut sudah mencapai tahap :&lt;/span&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>localhost:8080+151216021501+mp48ls</stamp>
+        <version>localhost:8080+151216021502+izLcBs</version>
+        <hidden>0</hidden>
+        <timecreated>1450232101</timecreated>
+        <timemodified>1450232101</timemodified>
+        <createdby>3</createdby>
+        <modifiedby>3</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="26">
+              <answertext>&lt;p&gt;Alpha version&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="27">
+              <answertext>&lt;p&gt;Beta version&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="28">
+              <answertext>&lt;p&gt;Charlie version&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="29">
+              <answertext>&lt;p&gt;Delta version&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="30">
+              <answertext>&lt;p&gt;Final Version&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="6">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+    </questions>
+  </question_category>
+  <question_category id="8">
+    <name>Default for Tugas 02</name>
+    <contextid>82</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>26</contextinstanceid>
+    <info>The default category for questions shared in context 'Tugas 02'.</info>
+    <infoformat>0</infoformat>
+    <stamp>localhost:8080+151216015905+iwNXIx</stamp>
+    <parent>0</parent>
+    <sortorder>999</sortorder>
+    <questions>
+    </questions>
+  </question_category>
+</question_categories>

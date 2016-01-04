@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="6" moduleid="12" modulename="resource" contextid="64">
+  <resource id="6">
+    <name>Interactive Production Process Notes</name>
+    <intro>&lt;p&gt;Interactive Production Process Notes&lt;br&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>0</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>1</revision>
+    <timemodified>1449554415</timemodified>
+  </resource>
+</activity>

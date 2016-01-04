@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+  <event id="7">
+    <name>Merawat Komponen Multimedia</name>
+    <description>&lt;p&gt;1. Bagaimana cara perawatan perangkat kamera yang benar? &lt;/p&gt;&lt;p&gt;2. Dalam suhu berapakan sebaiknya perangkat kamera disimpan? Berikan alasannya!&lt;/p&gt;&lt;p&gt;3. Mangapa perangkat multimedia memerlukan perawatan yang tepat?&lt;/p&gt;</description>
+    <format>1</format>
+    <courseid>4</courseid>
+    <groupid>0</groupid>
+    <userid>3</userid>
+    <repeatid>0</repeatid>
+    <modulename>assign</modulename>
+    <instance>4</instance>
+    <eventtype>due</eventtype>
+    <timestart>1450825200</timestart>
+    <timeduration>0</timeduration>
+    <visible>1</visible>
+    <uuid></uuid>
+    <sequence>1</sequence>
+    <timemodified>1450232445</timemodified>
+  </event>
+</events>

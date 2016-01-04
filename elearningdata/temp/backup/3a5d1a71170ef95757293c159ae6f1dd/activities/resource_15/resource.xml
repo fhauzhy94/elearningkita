@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="7" moduleid="15" modulename="resource" contextid="67">
+  <resource id="7">
+    <name>Merawat Peralatan Multimedia</name>
+    <intro>&lt;p&gt;materi perawatan peralatan multimedia&lt;br&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>0</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>1</revision>
+    <timemodified>1449557752</timemodified>
+  </resource>
+</activity>

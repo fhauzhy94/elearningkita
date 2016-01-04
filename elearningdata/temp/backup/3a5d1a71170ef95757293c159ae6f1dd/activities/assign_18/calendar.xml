@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+  <event id="6">
+    <name>Tugas 01</name>
+    <description>&lt;p&gt;1. Apa itu multimedia?&lt;/p&gt;&lt;p&gt;2. Komponen apa saja yang ada dalam multimedia?&lt;br /&gt;3. Mengapa multimedia dibutuhkan dalam pembelajaran?&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</description>
+    <format>1</format>
+    <courseid>4</courseid>
+    <groupid>0</groupid>
+    <userid>2</userid>
+    <repeatid>0</repeatid>
+    <modulename>assign</modulename>
+    <instance>3</instance>
+    <eventtype>due</eventtype>
+    <timestart>1450738800</timestart>
+    <timeduration>0</timeduration>
+    <visible>1</visible>
+    <uuid></uuid>
+    <sequence>1</sequence>
+    <timemodified>1450203197</timemodified>
+  </event>
+</events>

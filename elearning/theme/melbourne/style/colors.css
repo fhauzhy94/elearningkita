@@ -1,0 +1,113 @@
+/*
+  This file is part of Moodle - http://moodle.org/
+  Moodle is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 3 of the License, or
+  (at your option) any later version.
+
+  Moodle is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+  You should have received a copy of the GNU General Public License
+  along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
+*/
+
+/**
+ * @package    theme_melbourne
+ * @copyright  2011 Danny Wahl
+ * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+ */
+
+html,
+#dock,
+.block .content,
+.pagelayout-report #report-main-content .region-content table,
+tbody.empty {
+	background: #314e70;
+	color: #f6f6f6;
+}
+
+legend {
+	color: #f6f6f6;
+}
+
+a,
+a:active,
+a:visited {
+    color: #d1293e;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #fba824;
+}
+
+#page-header a:hover,
+#page-footer a:hover {
+	color: #d1293e;
+	text-decoration: underline;
+}
+
+#page-header,
+#page-footer,
+.block,
+thead {
+	background: #ccc;
+	color: #333;
+}
+
+#custommenu {
+	border-bottom: 1px solid #d1293e;
+}
+
+.block {
+	border: 1px solid #f160a8;
+}
+
+.sitetopic,
+.coursebox,
+.categorybox,
+.course_category_tree,
+.box,
+.generalbox,
+.generaltable,
+fieldset,
+.mform fieldset,
+table,
+ul.weeks {
+	border: 1px solid #f160a8;
+	background: #314e70;
+}
+
+.block .box,
+.block_docked .box {
+	border: 0 none;
+	background: transparent;
+}
+
+#region-main {
+	background: url([[pix:theme|core/background]]) no-repeat scroll right top transparent;
+}
+
+#page-footer {
+	border-top: 1px solid #d1293e;
+}
+
+.r0,
+.r1 {
+	border-bottom: 1px solid #F160A8;
+}
+
+.mform .error,
+.mform .required,
+.mform .fdescription.required,
+.red,
+.notifyproblem {
+	color: #f00;
+}
+
+.course-content .current {
+	background: #ccc;
+	color: #333;
+}
